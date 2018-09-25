@@ -108,6 +108,11 @@ There are 9 seminars, so you get 18 points from attendance.
 On presentation days, you only need to attend one of the seminars for that day to get credit.
 I'd prefer you attend the same time for the other weeks that you sign up for the presentation.
 
+In addition to the attendance, there will usually be something that you need to submit on Canvas for that week as well.
+These are due at 23:59 on Fridays.
+The first one tells me if you're a discussion leader or not.
+Seven of the remaining eight will be your feedback on the presentations for that week.
+
 Presentations
 """""""""""""
 
