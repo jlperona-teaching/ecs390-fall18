@@ -6,7 +6,7 @@ Credit for a significant portion of the content is given to Sean Davis of UC Dav
 Content is licensed under CC BY 4.0.
 See the LICENSE file for more information.
 
-.. _Canvas: https://canvas.ucdavis.edu/courses/274564
+.. _Canvas: https://canvas.ucdavis.edu/courses/252992
 .. _Github: https://github.com/jlperona-teaching/ecs390-fall18
 .. _schedule: https://github.com/jlperona-teaching/ecs390-fall18/blob/master/syllabus/schedule.csv
 .. _CEE: https://cee.ucdavis.edu/
@@ -80,8 +80,8 @@ Canvas_ will serve as the discussion board for the class, as well as where you'l
 Feel free to post questions on the `Discussions tab`_ of Canvas.
 I'll make any announcements on the `Announcements tab`_.
 
-.. _Discussions tab: https://canvas.ucdavis.edu/courses/274564/discussion_topics
-.. _Announcements tab: https://canvas.ucdavis.edu/courses/274564/announcements
+.. _Discussions tab: https://canvas.ucdavis.edu/courses/252992/discussion_topics
+.. _Announcements tab: https://canvas.ucdavis.edu/courses/252992/announcements
 
 Coursework and Grades
 ---------------------
