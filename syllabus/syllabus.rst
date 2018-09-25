@@ -26,7 +26,7 @@ Seminars
     *Monday, alternate*: 17:10 - 18:00, room TBA
 
 For the days in which we'll be doing presentations, there will be a second seminar, listed above.
-There's too many people in the class to be able to have everybody present in only one hour per week, so we're going to split up into two for the presentations.
+There's too many people in the class to be able to have everybody present in only one hour per week, so we're going to split up into two groups for the presentations.
 
 The above only applies for the presentation days.
 For the first and fifth classes, everybody will show up at 16:10 on Monday.
@@ -67,8 +67,8 @@ Github
 
 Github_ will serve as the open-source repository for some of the course content, including the syllabus (this document), the schedule, and any presentation notes I post.
 
-I'm a big fan of making things open-source wherever possible.
-My Github repository for `ECS 154A`_, a class I taught previously, is a good example of that.
+I'm a big fan of making things open-source wherever possible, hence this repository.
+My Github repository for `ECS 154A`_, a class I taught previously, is a good past example of that.
 
 .. _ECS 154A: https://github.com/jlperona-teaching/ecs154a-ssii18
 
@@ -95,7 +95,7 @@ You need 90% of the points possible to get an S.
 This means you can miss either one class, or one of the assignments for your specific track (see below) and still come out with an S.
 
 You must do both presentations to pass the class.
-If you can't make your presentation date because of an emergency, let me know.
+If you can't make your presentation date because of an emergency, let me know as soon as you can.
 
 Required Coursework
 ~~~~~~~~~~~~~~~~~~~
@@ -106,6 +106,7 @@ Attendance
 Attendance for each class is mandatory.
 There are 9 seminars, so you get 18 points from attendance.
 On presentation days, you only need to attend one of the seminars for that day to get credit.
+I'd prefer you attend the same time for the other weeks that you sign up for the presentation.
 
 Presentations
 """""""""""""
@@ -113,60 +114,64 @@ Presentations
 There will be two different presentations that everybody will make.
 One will be a short 3-minute presentation in the first half of the quarter.
 The other will be a longer 5-minute presentation in the second half of the quarter.
-Each one will have some time to answer questions at the end, followed by feedback from the class.
+You will leave some time to answer questions at the end.
+This will be followed by feedback from the class and me.
 
-You can present on anything that you want (within reason, nothing obscene please).
-Some of my favorite presentation topics have been on hair loss, why Drake's entire discography is a thinly veiled suicide note, and how not to be a bad cyclist on campus.
-Feel free to get creative.
+You can present on anything that you want within reason (nothing obscene, please).
+Some of my favorite presentation topics have been on styling product-induced hair loss, why Drake's entire discography is a thinly veiled suicide note, and how not to be a bad cyclist on campus (complete with a demonstration).
+Feel free to get creative, it makes it more fun.
 
 Each presentation is worth 3 points, for a total of 6 points.
 I won't be grading on content or anything like that.
-As long as it looks like you made an attempt (and attempted to improve on the second presentation), you'll get credit.
+As long as you made a genuine attempt, and attempted to improve on the second presentation versus the first, you'll get credit.
+
+While people are presenting, everybody else will be writing down notes on what the presenter did well, and what they could improve on.
+You'll submit these after the class is over on Canvas.
 
 Track A - Discussion Leaders
 """"""""""""""""""""""""""""
 
 There's two different tracks, depending on whether or not you'll be leading discussions this quarter or not.
-
+For discussion leaders, your two assignments revolve around your discussions.
 Each of the observations below is worth 3 points, for a total of 6 points.
 
 *Discussion Observation*
 
-If you are leading discussions this quarter, then you will have two assignments involving your discussions.
-The first will be me observing one of your discussion sections, preferably early in the quarter.
+The first observation will be me observing one of your discussion sections, preferably early in the quarter.
 I will ask you to submit a list of when you teach discussions on Canvas, and I'll observe one of those and give you feedback.
 I'll let you know ahead of time when I plan on attending.
 
 *Discussion Recording and Consultation*
 
-The second involves going over a video recording of one of your discussions.
 The Center for Educational Effectiveness (or CEE_) promotes and supports effective learning for all UC Davis students.
 You're probably already met them at TA orientation.
 One of CEE's offerings is going over a video recording of yourself with a TA Consultant.
 
+The second observation involves going over a video recording of one of your discussions.
 You will record yourself, and then meet with one of CEE's TA Consultants to discuss how you can improve as an instructor.
 You can find the form to request this on `their website`_.
+Please make the request for the consultation by the sixth week of the quarter, so that CEE can make time for everybody.
 
 Track B - Everyone Else
 """""""""""""""""""""""
 
 If you're not leading discussions, either because you're only grading or you're not a TA this quarter, then you're going to have two alternative assignments.
+Each of the workshops below (together with proof of attendance) is worth 3 points, for a total of 6 points.
 
 *Two Workshops*
 
 The Center for Educational Effectiveness (or CEE_) promotes and supports effective learning for all UC Davis students.
 You're probably already met them at TA orientation.
-CEE holds workshops every quarter on a variety of topics.
+CEE holds workshops every quarter on a variety of topics on teaching skills and education.
 
 Your assignments will be to attend two separate CEE workshops, and write a short paragraph on what you've learned for each.
 You can view all the available workshops on `CEE's website`_.
 Feel free to attend any two that strike your fancy.
 Note that you need to register ahead of time on each event's page.
-Each workshop (and proof of attendance) is worth 3 points, for a total of 6 points.
 
 *Graduate Teaching Certificate*
 
-CEE offers a `graduate teaching certificate`_ if you attend five of six presentations listed on the flyer I linked.
+CEE offers a `graduate teaching certificate`_ if you attend five of six presentations listed on the flyer linked in this sentence.
 This isn't required, but if you're interested in getting the certificate, feel free to attend more workshops.
 
 *Observation Offer*
@@ -174,9 +179,10 @@ This isn't required, but if you're interested in getting the certificate, feel f
 You will, admittedly, get a bit more out of this class if you're leading discussions.
 That being said, if you do lead discussions in Winter or Spring this year, and would like somebody to observe you, I'm more than happy to do so.
 Email me in the future when you're leading a discussion if you'd like to take me up on this offer.
+If you're serious about wanting to improve, I'll meet you halfway.
 
-CEE can also do the same.
-You can request this on `their website`_.
+CEE can also do observations, as well.
+You can request an observation on `their website`_.
 
 .. _`CEE's website`: https://cee.ucdavis.edu/workshops
 .. _`graduate teaching certificate`: https://cee.ucdavis.edu/sites/g/files/dgvnsk5371/files/files/page/2018%20Fall%20Grad%20Student%20Workshop%20Flyer.pdf
