@@ -131,7 +131,7 @@ I won't be grading on content or anything like that.
 As long as you made a genuine attempt, and attempted to improve on the second presentation versus the first, you'll get credit.
 
 While people are presenting, everybody else will be writing down notes on what the presenter did well, and what they could improve on.
-You'll submit these after the class is over on Canvas.
+You'll submit these electronically on Canvas after the class is over.
 
 Track A - Discussion Leaders
 """"""""""""""""""""""""""""
