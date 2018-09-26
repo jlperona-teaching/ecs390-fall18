@@ -23,13 +23,13 @@ Seminars
 
     *Monday*: 16:10 - 17:00, 1150 Hart
 
-    *Monday, alternate*: 17:10 - 18:00, room TBA
+    *Monday, alternate*: 17:10 - 18:00, 1150 Hart
 
-For the days in which we'll be doing presentations, there will be a second seminar, listed above.
+For the days in which we'll be doing presentations, there will be a second seminar an hour later, in the same room.
 There's too many people in the class to be able to have everybody present in only one hour per week, so we're going to split up into two groups for the presentations.
 
 The above only applies for the presentation days.
-For the first and fifth classes, everybody will show up at 16:10 on Monday.
+For the first and fifth classes, everybody will show up at 16:10.
 
 Instructor
 ~~~~~~~~~~
