@@ -100,18 +100,21 @@ If you can't make your presentation date because of an emergency, let me know as
 Required Coursework
 ~~~~~~~~~~~~~~~~~~~
 
-Attendance
-""""""""""
+Attendance and Weekly Assignments
+"""""""""""""""""""""""""""""""""
 
 Attendance for each class is mandatory.
-There are 9 seminars, so you get 18 points from attendance.
 On presentation days, you only need to attend one of the seminars for that day to get credit.
-I'd prefer you attend the same time for the other weeks that you sign up for the presentation.
+If you sign up for the later time slot, I'd prefer that you attend the later time slot for the rest of the weeks for that presentation.
+This is so that we can get equal amounts of feedback for presenters for each week.
 
 In addition to the attendance, there will usually be something that you need to submit on Canvas for that week as well.
-These are due at 23:59 on Fridays.
+These are *usually* due at 23:59 on Fridays, but check the due date carefully.
 The first one tells me if you're a discussion leader or not.
 Seven of the remaining eight will be your feedback on the presentations for that week.
+
+There are 9 seminars, so you get 18 points from attendance.
+You need to attend as well as submit the associated assignment to get credit for that week.
 
 Presentations
 """""""""""""
@@ -132,13 +135,16 @@ As long as you made a genuine attempt, and attempted to improve on the second pr
 
 While people are presenting, everybody else will be writing down notes on what the presenter did well, and what they could improve on.
 You'll submit these electronically on Canvas after the class is over.
+This constitutes part of your attendance for each week.
 
 Track A - Discussion Leaders
 """"""""""""""""""""""""""""
 
 There's two different tracks, depending on whether or not you'll be leading discussions this quarter or not.
 For discussion leaders, your two assignments revolve around your discussions.
+
 Each of the observations below is worth 3 points, for a total of 6 points.
+See Canvas_ for more details on each assignment.
 
 *Discussion Observation*
 
@@ -155,19 +161,21 @@ One of CEE's offerings is going over a video recording of yourself with a TA Con
 The second observation involves going over a video recording of one of your discussions.
 You will record yourself, and then meet with one of CEE's TA Consultants to discuss how you can improve as an instructor.
 You can find the form to request this on `their website`_.
-Please make the request for the consultation by the sixth week of the quarter, so that CEE can make time for everybody.
 
 Track B - Everyone Else
 """""""""""""""""""""""
 
 If you're not leading discussions, either because you're only grading or you're not a TA this quarter, then you're going to have two alternative assignments.
+These revolve around exposing you to something new in terms of teaching.
+
 Each of the workshops below (together with proof of attendance) is worth 3 points, for a total of 6 points.
+See Canvas_ for more details on each assignment.
 
 *Two Workshops*
 
 The Center for Educational Effectiveness (or CEE_) promotes and supports effective learning for all UC Davis students.
 You're probably already met them at TA orientation.
-CEE holds workshops every quarter on a variety of topics on teaching skills and education.
+CEE holds workshops every quarter on a variety of topics to help you improve your teaching.
 
 Your assignments will be to attend two separate CEE workshops, and write a short paragraph on what you've learned for each.
 You can view all the available workshops on `CEE's website`_.
