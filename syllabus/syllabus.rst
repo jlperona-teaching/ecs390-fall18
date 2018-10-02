@@ -105,7 +105,7 @@ Attendance and Weekly Assignments
 
 Attendance for each class is mandatory.
 On presentation days, you only need to attend one of the seminars for that day to get credit.
-If you sign up for the later time slot, I'd prefer that you attend the later time slot for the rest of the weeks for that presentation.
+If you sign up for the later time slot, attend the later time slot for the rest of the weeks for that presentation.
 This is so that we can get equal amounts of feedback for presenters for each week.
 
 In addition to the attendance, there will usually be something that you need to submit on Canvas for that week as well.
@@ -114,7 +114,7 @@ The first one tells me if you're a discussion leader or not.
 Seven of the remaining eight will be your feedback on the presentations for that week.
 
 There are 9 seminars, so you get 18 points from attendance.
-You need to attend as well as submit the associated assignment to get credit for that week.
+You need to attend class as well as submit the associated assignment to get credit for that week.
 
 Presentations
 """""""""""""
@@ -159,8 +159,7 @@ You're probably already met them at TA orientation.
 One of CEE's offerings is going over a video recording of yourself with a TA Consultant.
 
 The second observation involves going over a video recording of one of your discussions.
-You will record yourself, and then meet with one of CEE's TA Consultants to discuss how you can improve as an instructor.
-You can find the form to request this on `their website`_.
+You will record yourself, and then meet with one of CEE's consultants to discuss the recording how you can improve as an instructor.
 
 Track B - Everyone Else
 """""""""""""""""""""""
