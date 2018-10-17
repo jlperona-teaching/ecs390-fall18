@@ -91,11 +91,11 @@ Course Grading
 
 The course is graded on a Satisfactory / Unsatisfactory (S/U) basis.
 There are 30 points possible, described in more detail in the sections below.
-You need 90% of the points possible to get an S.
-This means you can miss either one class, or one of the assignments for your specific track (see below) and still come out with an S.
+You need 80% of the points possible to get an S, as is typical of S/U classes at UC Davis.
+This means you can miss three classes, both of the assignments for your specific track, or one of each, and still come out with an S.
 
-You must do both presentations to pass the class.
-If you can't make your presentation date because of an emergency, let me know as soon as you can.
+You must do both presentations to pass the class (regardless of the point value), as those are the entire point of the class.
+If you can't make a presentation date because of an emergency, let me know as soon as you can.
 
 Required Coursework
 ~~~~~~~~~~~~~~~~~~~
@@ -178,13 +178,13 @@ CEE holds workshops every quarter on a variety of topics to help you improve you
 
 Your assignments will be to attend two separate CEE workshops, and write a short paragraph on what you've learned for each.
 You can view all the available workshops on `CEE's website`_.
-Feel free to attend any two that strike your fancy.
+Feel free to attend any two that strike your fancy, though keep in mind some of the workshops on that list are oriented towards faculty and not graduate students.
 Note that you need to register ahead of time on each event's page.
 
 *Graduate Teaching Certificate*
 
 CEE offers a `graduate teaching certificate`_ if you attend five of six presentations listed on the flyer linked in this sentence.
-This isn't required, but if you're interested in getting the certificate, feel free to attend more workshops.
+This isn't required, but if you're interested in getting the certificate, feel free to attend more graduate student workshops.
 
 *Observation Offer*
 
