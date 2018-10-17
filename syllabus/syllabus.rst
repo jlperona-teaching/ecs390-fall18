@@ -92,7 +92,7 @@ Course Grading
 The course is graded on a Satisfactory / Unsatisfactory (S/U) basis.
 There are 30 points possible, described in more detail in the sections below.
 You need 80% of the points possible to get an S, as is typical of S/U classes at UC Davis.
-This means you can miss three classes, both of the assignments for your specific track, or one of each, and still come out with an S.
+This means you can either miss three classes, both of the assignments for your specific track, or one of each, and still come out with an S.
 
 You must do both presentations to pass the class (regardless of the point value), as those are the entire point of the class.
 If you can't make a presentation date because of an emergency, let me know as soon as you can.
